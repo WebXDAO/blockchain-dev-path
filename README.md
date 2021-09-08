@@ -26,7 +26,7 @@ About Blockchain, web 3 and somewhat related to Dapp.
 
 --- 
 
-If you already have decentralized applications, you can onboard your applications on http://stakes.social/ 
+If you already have decentralized applications and need development support. You can onboard your applications on http://stakes.social/ 
 
 Thanks to all creators & developers out there for giving good content 🖤
 
