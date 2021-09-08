@@ -29,5 +29,4 @@ If you already have decentralized applications, you can onboard your application
 
 Thanks to all creators & developers out there for giving good content 🖤
 
-> Not done yet, if you have suggestions for Blockchain Developer Path, feel free to create an issue and tell your ideas.
-
+> Not done yet, if you have suggestions for Blockchain Developer Path, feel free to create an [issue](https://github.com/web3community/blockchain-dev-path/issues) and tell your ideas.
