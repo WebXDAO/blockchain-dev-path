@@ -20,8 +20,9 @@ Click the image to view on YouTube.
 ## Written or Blog content 
 About Blockchain, web 3 and somewhat related to Dapp.
 | Title | Content | 
-| :-- | :-- |
+| :-- | --- |
 | The New Creator Economy - DAOs, Community Ownership, and Cryptoeconomics | <a href="https://dev.to/dabit3/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics-lnl">View</a> |
+| What It Takes To Be A Blockchain Developer | <a href="https://www.techfunnel.com/information-technology/how-to-become-blockchain-developer/">View</a> |
 
 --- 
 
