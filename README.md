@@ -34,11 +34,6 @@ About Blockchain, web 3 and somewhat related to Dapp.
 | Become an in-demand blockchain MASTER | <a href="https://www.dappuniversity.com/bootcamp">View</a> |
 | CryptoZombies | <a href="https://cryptozombies.io/">View</a> |
 
-## How to get job?
-| Title | About | Link | 
-| :-- | --- | --- |
-| ZipRecruiter | ZipRecruiter is a job aggregator that automatically updates job advertisements from multiple internet sources and consolidates it in one place for easy viewing. ZipRecruiter also is a prolific resume search tool, and job search engine. | <a href="https://www.ziprecruiter.com/Jobs/Blockchain-Developer">View</a> |
-
 ## Build Projects
 
 If you already have decentralized applications and need development support to continue your goal. You can onboard your applications on http://stakes.social/ 
