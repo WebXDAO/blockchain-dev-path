@@ -29,6 +29,8 @@ About Blockchain, web 3 and somewhat related to Dapp.
 
 If you already have decentralized applications and need development support. You can onboard your applications on http://stakes.social/ 
 
+<a href="https://docs.devprotocol.xyz/en/stakes-social/"><img width="179" src="https://user-images.githubusercontent.com/17464685/129601828-fd461e84-bee7-4293-8fd6-f9cd3692f8ad.png"></a>
+
 Thanks to all creators & developers out there for giving good content 🖤
 
 > Not done yet, if you have suggestions for Blockchain Developer Path, feel free to create an [issue](https://github.com/web3community/blockchain-dev-path/issues) and tell your ideas. After gathering all of the important information, we will start to create website for this repository.
