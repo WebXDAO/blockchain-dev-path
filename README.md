@@ -27,6 +27,12 @@ About Blockchain, web 3 and somewhat related to Dapp.
 
 --- 
 
+## Free Training
+
+| Title | Content | 
+| :-- | --- |
+| Become an in-demand blockchain MASTER | <a href="https://www.dappuniversity.com/bootcamp">View</a> |
+
 If you already have decentralized applications and need development support. You can onboard your applications on http://stakes.social/ 
 
 #### What is Stakes.social?
