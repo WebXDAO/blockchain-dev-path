@@ -8,6 +8,7 @@ Click the image to view on YouTube.
 
 | Title | Content | Length | 
 | --- | :-- | --- |
+| But how does bitcoin actually work? | [![video](https://img.youtube.com/vi/OwSl2xwl2-w/0.jpg)](https://www.youtube.com/watch?v=bBC-nXj3Ng4) |  26m 20s |
 | How to become a blockchain developer in 2021 | [![video](https://img.youtube.com/vi/OwSl2xwl2-w/0.jpg)](https://www.youtube.com/watch?v=OwSl2xwl2-w) | 1h 28m 20s |
 | Full Roadmap to learn Blockchain development in 2021 | [![video](https://img.youtube.com/vi/ci_AIMCF-HA/0.jpg)](https://www.youtube.com/watch?v=ci_AIMCF-HA) | 12m 39s |
 
