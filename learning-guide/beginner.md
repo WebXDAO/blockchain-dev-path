@@ -27,4 +27,6 @@ About Blockchain, web 3 and somewhat related to Dapp.
 
 ## Other
 
+| Title | Content | Length | 
+| --- | :-- | --- |
 | But how does bitcoin actually work? | [![video](http://img.youtube.com/vi/bBC-nXj3Ng4/0.jpg)](https://www.youtube.com/watch?v=bBC-nXj3Ng4) |  26m 20s |
