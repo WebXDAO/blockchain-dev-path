@@ -32,6 +32,7 @@ About Blockchain, web 3 and somewhat related to Dapp.
 | Title | Content | 
 | :-- | --- |
 | CryptoZombies | <a href="https://cryptozombies.io/">View</a> |
+| Figment Learn | <a href ="https://learn.figment.io/">View</a>|
 
 ## Paid courses
 | Title | Content | 
