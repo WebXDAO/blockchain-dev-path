@@ -14,7 +14,7 @@ Click the image to view on YouTube.
 | Title | Content | Length | 
 | --- | :-- | --- |
 | The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners [2021] | [![video](https://img.youtube.com/vi/a0osIaAOFSE/0.jpg)](https://www.youtube.com/watch?v=a0osIaAOFSE) | 1h 01m 04s
-| Local Solidity Development | https://hardhat.org/ |
+| Local Solidity Development | [view](https://hardhat.org/) |
 
 ## Blog content 
 
