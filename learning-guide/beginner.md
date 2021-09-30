@@ -25,7 +25,7 @@ About Blockchain, web 3 and somewhat related to Dapp.
 | The New Creator Economy - DAOs, Community Ownership, and Cryptoeconomics | <a href="https://dev.to/dabit3/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics-lnl">View</a> |
 | The Complete Guide to Full Stack Ethereum Development | <a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">View</a>
 | What It Takes To Be A Blockchain Developer | <a href="https://www.techfunnel.com/information-technology/how-to-become-blockchain-developer/">View</a> |
-| Create A Simple Dapp | MetaMask | <a href="https://docs.metamask.io/guide/create-dapp.html#project-setup">View</a> |
+| Create A Simple Dapp '|' | <a href="https://docs.metamask.io/guide/create-dapp.html#project-setup">View</a> |
 
 ## Other
 
