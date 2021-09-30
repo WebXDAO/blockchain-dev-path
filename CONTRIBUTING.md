@@ -82,6 +82,17 @@ git push origin YourBranchName
 
 **9.** 🎉 Congratulations! You've made your contribution.
 
+---
+
+### Hacktoberfest guideline
+
+##### Good Practice
+- Comment on the issue to get assign or
+- Create an issue before you can make Pull Request
+
+##### Bad Practice
+- Creating PR without issue statement will be automatically close.
+
 <br> 
 
 After this, project leaders and mentors will review the changes and will merge your PR if they found it good, otherwise we will suggest the required changes.
