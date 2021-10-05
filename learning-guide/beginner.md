@@ -16,7 +16,7 @@ Click the image to view on YouTube.
 | Title | Content | Length | 
 | --- | :-- | --- |
 | The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners [2021] | [![video](https://img.youtube.com/vi/a0osIaAOFSE/0.jpg)](https://www.youtube.com/watch?v=a0osIaAOFSE) | 1h 01m 04s
-| Local Solidity Development | [![video](https://user-images.githubusercontent.com/68073132/136015000-4801b909-f183-4726-b2c5-e2ce82aa2d31.png)](https://hardhat.org/) | Written Content
+| Local Solidity Development | [![view](https://user-images.githubusercontent.com/68073132/136015000-4801b909-f183-4726-b2c5-e2ce82aa2d31.png)](https://hardhat.org/) | Written Content
 | Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial | [![video](https://user-images.githubusercontent.com/68073132/135998915-31e05399-0495-493a-920a-1a3ddd939cf2.jpeg)](https://youtu.be/M576WGiDBdQ) | 16h 22m 12s
 | How to Build a Full Stack NFT Marketplace on Ethereum with Polygon and Next.js | [![video](https://user-images.githubusercontent.com/68073132/136000852-6c23261c-d1f1-4c0f-ba53-c406c6b6ce14.jpeg)](https://youtu.be/GKJBEEXUha0) | 2h 21m 22s
 
