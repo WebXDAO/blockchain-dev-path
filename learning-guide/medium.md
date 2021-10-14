@@ -1,4 +1,4 @@
-# Understanding Blockchain in a intermediate level
+# Understanding Blockchain in a medium level guide
 
 An opinionated learning path for getting into speed with Blockchain (specially Ethereum).
 
