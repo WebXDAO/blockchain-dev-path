@@ -15,7 +15,7 @@ You can access the free training [here](/free-training/training.md)
 
 ## Build Projects
 
-If you already have decentralized applications and need development support to continue your goal. You can onboard your applications on <https://stakes.social/>/
+If you already have decentralized applications and need development support to continue your goal. You can onboard your applications on <https://stakes.social/>
 
 ### What is Stakes.social?
 
