@@ -1,7 +1,6 @@
-## Understanding Blockchain with a bit higher level than the beginner one
+# Understanding Blockchain in a intermediate level
 
 An opinionated learning path for getting into speed with Blockchain (specially Ethereum).
-
 
 ## Pre-requisites
 
@@ -28,7 +27,7 @@ with:
 
 ## Ethereum
 
-#### Theory
+### Theory
 
 1. Read [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) (Est. time: 38 minutes)
 2. Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
@@ -36,8 +35,7 @@ with:
 3. Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
 
-
-#### Practice 
+### Practice
 
 1. Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/) (Est. time: 8 hs)
 2. Read and make and example: [Pet shop tutorial](https://www.trufflesuite.com/tutorial)
@@ -45,7 +43,6 @@ with:
 4. [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 5. [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ) (Est. time: 4 hs)
 6. [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
-
 
 ## Concepts
 
@@ -66,7 +63,6 @@ with:
 1. [Inside an Ethereum transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
 2. [Diving Into the Ethereum VM](https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30)
 
-
 ## Libraries
 
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
@@ -75,11 +71,12 @@ with:
 
 ## Toolbox
 
-#### General
+### General
 
 - [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 - [Metamask](https://metamask.io/) - You can use it as a extension in your browser.
-#### Audit
+
+### Audit
 
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
