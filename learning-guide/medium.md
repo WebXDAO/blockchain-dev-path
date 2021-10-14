@@ -2,8 +2,6 @@
 
 An opinionated learning path for getting into speed with Blockchain (specially Ethereum).
 
-> if the content seems fine then i wann
-
 
 ## Pre-requisites
 
