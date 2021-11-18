@@ -31,10 +31,12 @@ The above may not seem like much, but it is all you need to join the revolution 
 | **Mastering Bitcoin** | Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin. | https://github.com/bitcoinbook/bitcoinbook
 | **Mastering Ethereum** | Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK), and other compatible EVM-based open blockchains. | https://github.com/ethereumbook/ethereumbook
 
+## YouTube 
 Click the image to view on YouTube.
 
 | Title | Content | Length |
 | --- | :-- | --- |
+| Defining the Web3 Stack - by Nader Dabit | [![video](https://img.youtube.com/vi/f9XRH7bjV8M/0.jpg)](https://www.youtube.com/watch?v=f9XRH7bjV8M) | 31m 10s |
 | Full Roadmap to learn Blockchain development in 2021 | [![video](https://img.youtube.com/vi/ci_AIMCF-HA/0.jpg)](https://www.youtube.com/watch?v=ci_AIMCF-HA) | 12m 39s |
 | How to become a blockchain developer in 2021 | [![video](https://img.youtube.com/vi/OwSl2xwl2-w/0.jpg)](https://www.youtube.com/watch?v=OwSl2xwl2-w) | 1h 28m 20s |
 | How To Become a Blockchain Developer (Full Roadmap) | [<img src="https://user-images.githubusercontent.com/68073132/135997177-23e759e3-2e18-4196-b1d7-746094edb237.jpeg" height="250" width="500">](https://www.youtube.com/watch?v=P87pLayUD8c) | 14m 13s |
