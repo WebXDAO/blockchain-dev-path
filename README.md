@@ -9,6 +9,8 @@ Here you will learn how to become one of the Dapp Developers and collaborate wit
 - Get started with web3 and become Blockchain Developer [here](/learning-guide/beginner.md)
 - Access the medium level guide to become Blockchain Developer [here](/learning-guide/medium.md)
 
+For more information, you can directly ask in our [discord](https://discord.gg/TSRwqx4K2v) server
+
 ## Free Training
 
 You can access the free training [here](/free-training/training.md)
@@ -24,5 +26,3 @@ Stakes.social is a platform where you can register your OSS to Dev Protocol and 
 <a href="https://docs.devprotocol.xyz/en/stakes-social/"><img width="179" src="https://user-images.githubusercontent.com/17464685/129601828-fd461e84-bee7-4293-8fd6-f9cd3692f8ad.png"></a>
 
 Thanks to all creators & developers out there for giving good content 🖤
-
-> Not done yet, if you have suggestions for Blockchain Developer path, feel free to create an [issue](https://github.com/web3community/blockchain-dev-path/issues) and tell your ideas. After gathering all of the important information, we will start to create website for this repository.
