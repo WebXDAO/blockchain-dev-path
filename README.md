@@ -6,8 +6,8 @@ Here you will learn how to become one of the Dapp Developers and collaborate wit
 
 # Learn
 
-- You can access the beginner level guide to become Blockchain Developer [here](/learning-guide/beginner.md)
-- You can access the medium level guide to become Blockchain Developer [here](/learning-guide/medium.md)
+- Get started with web3 and become Blockchain Developer [here](/learning-guide/beginner.md)
+- Access the medium level guide to become Blockchain Developer [here](/learning-guide/medium.md)
 
 ## Free Training
 
