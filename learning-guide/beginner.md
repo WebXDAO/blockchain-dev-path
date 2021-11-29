@@ -5,15 +5,15 @@
 To develop decentralized applications on Ethereum or other blockchains, you will need some fundamental skills. You may already have some of these skills. If so, that's great! If you are here though, at least some of this is likely new to you. Here are the essentials of what you need to know.
 
 1. How the Blockchain Works
-   
+
 You will need to have a basic understanding of how the blockchain works. What is a private and public key? What is a block and how is it validated? What even is a blockchain. There are some great materials out there for you and we have gathered some of the best below. If books are your thing, you'll prabably want to start with "Mastering Bitcoin." This will give you some interesting history and teach you everything you need to know about Bitcoin.
 
-You can then follow this up with "Mastering Ethereum". As a Dapp developer specifically, you will need to know about smart contracts and the EVM. This will not only teach you about Ethereum but also many of the concepts you will need for developing on other chains. 
+You can then follow this up with "Mastering Ethereum". As a Dapp developer specifically, you will need to know about smart contracts and the EVM. This will not only teach you about Ethereum but also many of the concepts you will need for developing on other chains.
 
-2. Solidity 
+2. Solidity
 
 The "backend" of your decentralized applications will be smart contracts that are deployed onto a blockchain. While there are a few other languages that are being experimented with or are in limited use, Solidity is the go-to language for developing on Ethereum and EVM compatible blockchains. In the training section of this dev-path, there are some excellent tutorials to get you started. Cryptozombies in particular is one of the best introductions to Solidity basics out there.
-   
+
 You don't have to be an expert in Solidity to begin writing smart contracts. In fact, without putting practice in, you'll never become an expert! So get some of the basics under your belt and start coding.
 
 3. Basic Web Dev Skills
@@ -28,10 +28,11 @@ The above may not seem like much, but it is all you need to join the revolution 
 
 | Title | Content | Link
 | --- | --- | ---|
-| **Mastering Bitcoin** | Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin. | https://github.com/bitcoinbook/bitcoinbook
-| **Mastering Ethereum** | Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK), and other compatible EVM-based open blockchains. | https://github.com/ethereumbook/ethereumbook
+| **Mastering Bitcoin** | Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin. | <https://github.com/bitcoinbook/bitcoinbook>
+| **Mastering Ethereum** | Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK), and other compatible EVM-based open blockchains. | <https://github.com/ethereumbook/ethereumbook>
 
-## YouTube 
+## YouTube
+
 Click the image to view on YouTube.
 
 | Title | Content | Length |
@@ -59,11 +60,11 @@ About Blockchain, web 3 and somewhat related to Dapp.
 
 | Title | Content |
 | :-- | --- |
-| The New Creator Economy - DAOs, Community Ownership, and Cryptoeconomics | <a href="https://dev.to/dabit3/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics-lnl">View</a> |
-| The Complete Guide to Full Stack Ethereum Development | <a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">View</a>
-| What It Takes To Be A Blockchain Developer | <a href="https://www.techfunnel.com/information-technology/how-to-become-blockchain-developer/">View</a> |
-| Create A Simple Dapp with MetaMask Integration | <a href="https://docs.metamask.io/guide/create-dapp.html#project-setup">View</a> |
-| Web3 — A vision for a decentralized web | <a href="https://blog.cloudflare.com/what-is-web3/">View</a>|
+| The New Creator Economy - DAOs, Community Ownership, and Cryptoeconomics | [View](https://dev.to/dabit3/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics-lnl)|
+| The Complete Guide to Full Stack Ethereum Development | [View](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+| What It Takes To Be A Blockchain Developer | [View](https://www.techfunnel.com/information-technology/how-to-become-blockchain-developer/)|
+| Create A Simple Dapp with MetaMask Integration | [View](https://docs.metamask.io/guide/create-dapp.html#project-setup) |
+| Web3 — A vision for a decentralized web | [View](https://blog.cloudflare.com/what-is-web3/)|
 
 ## Other
 
