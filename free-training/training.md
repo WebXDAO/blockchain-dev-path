@@ -9,4 +9,4 @@
 | NFT School | [View](https://nftschool.dev/)|
 | Polygon Academy | [View](https://github.com/Polygon-Academy) |
 | Odyssey DAO | [View](https://www.odysseydao.com/pathways/intro-to-web3) |
-| Tracks|Questbook | [View](https://openquest.xyz/tracks) |
+| Tracks Questbook | [View](https://openquest.xyz/tracks) |
