@@ -29,6 +29,9 @@ The above may not seem like much, but it is all you need to join the revolution 
 | Title | Content | Link
 | --- | --- | ---|
 | **Mastering Bitcoin** | Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin. | <https://github.com/bitcoinbook/bitcoinbook>
+| **Grokking Bitcoin** | Grokking Bitcoin opens up this powerful distributed ledger system, exploring the technology that enables applications both for Bitcoin-based financial transactions and using the blockchain for registering physical property ownership. | <https://github.com/kallerosenbaum/grokkingbitcoin>
+| **Programming Bitcoin** | How to program a Bitcoin library from scratch. You’ll learn how to work with the basics, including the math, blocks, network, and transactions behind this popular cryptocurrency and its blockchain payment system. | <https://github.com/jimmysong/programmingbitcoin>
+| **Mastering the Lightning Network** | The book describes the Lightning Network (LN), a Peer-to-Peer protocol running on top of Bitcoin and other blockchains, which provides near-instant, secure, micro-payments. | <https://github.com/lnbook/lnbook>
 | **Mastering Ethereum** | Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK), and other compatible EVM-based open blockchains. | <https://github.com/ethereumbook/ethereumbook>
 
 ## YouTube
