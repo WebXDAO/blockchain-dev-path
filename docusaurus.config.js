@@ -79,7 +79,7 @@ const config = {
           
           {
             label: "Join Us",
-            href:'https://github.com/WebXDAO/start-here/issues',
+            href:'https://github.com/WebXDAO/start-here/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community',
             position: 'right'
           },
           {
