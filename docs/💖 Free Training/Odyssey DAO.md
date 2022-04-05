@@ -1,0 +1,1 @@
+[DAOs](https://www.odysseydao.com/pathways/intro-to-web3) are communities that are collectively owned and managed by their members. In this path, we’ll cover how DAOs work, how to find DAOs to contribute to, and how to create your own DAO. 
