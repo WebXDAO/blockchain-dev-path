@@ -1,0 +1,1 @@
+[Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin) opens up this powerful distributed ledger system, exploring the technology that enables applications both for Bitcoin-based financial transactions and using the blockchain for registering physical property ownership.

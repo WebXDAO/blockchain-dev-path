@@ -1,0 +1,1 @@
+At [NFT School](https://nftschool.dev/) , a collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs. In the past few years, NFTs have gone from a niche concern within the blockchain world to a cultural phenomenon that has captured the imagination of artists, technologists, and the mass media.
