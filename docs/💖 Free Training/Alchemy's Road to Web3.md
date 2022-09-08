@@ -1,6 +1,7 @@
 Learn about [Alchemy's Road to Web3 series](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3), a 10-week, self-paced web3 developer program to help new blockchain devs go from beginner to advanced.
 
-## Road to Web3 Learning Challenges
+## Road to Web3 Learning Challenges :rocket:
+
 Here are links to each of the learning challenges in the Road to Web 3 Series.
 
 - [How to Develop an NFT Smart Contract (ERC721) with Alchemy](https://docs.alchemy.com/docs/1-how-to-develop-an-nft-smart-contract-erc721-with-alchemy)
