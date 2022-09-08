@@ -43,7 +43,7 @@ const config = {
       navbar: {
         title: 'WebXDAO',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'WebXDAO logo',
           src: 'img/logo.svg',
           
         },
@@ -147,7 +147,7 @@ const config = {
           },
         ],
 
-        copyright: `Copyright © ${new Date().getFullYear()} WebXDAO.All Rights Reserved`,
+        copyright: `Copyright © ${new Date().getFullYear()} WebXDAO. All rights reserved`,
       },
       prism: {
         theme: lightCodeTheme,
