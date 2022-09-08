@@ -1,4 +1,4 @@
-# Alchemy's road to Web3 :globe:
+# Alchemy's road to Web3 :globe_with_meridians:
 
 Learn about [Alchemy's Road to Web3 series](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3), a 10-week, self-paced web3 developer program to help new blockchain devs go from beginner to advanced.
 
