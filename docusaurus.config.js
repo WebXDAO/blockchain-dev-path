@@ -44,7 +44,7 @@ const config = {
         title: 'WebXDAO',
         logo: {
           alt: 'WebXDAO logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
           
         },
        
@@ -107,7 +107,7 @@ const config = {
       footer: {
         logo:{
           alt: 'WebXDAO',
-        src: './img/Logo.svg',
+        src: './img/logo.png',
         href: 'https://github.com/WebXDAO/blockchain-dev-path',
         },
         style: 'light',
