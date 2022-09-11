@@ -1,6 +1,6 @@
 # Learn with WebX DAO 🦄
 
-Here you will learn how to become one of the Dapp Developers and collaborate with other people inside of web3community. We gather content about Blockchain developers. You don't need to see all the resources, but choose what content is best for you.
+Here you will learn how to become one of the Dapp Developers and collaborate with other people inside of WebXDAO. We gather content about Blockchain developers. You don't need to see all the resources, but choose what content is best for you.
 
 For more information, you can directly ask in our [Discord](https://discord.gg/TSRwqx4K2v) community.
 
@@ -44,4 +44,4 @@ Not using SSH:
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and pushing to the `gh-pages` branch.
