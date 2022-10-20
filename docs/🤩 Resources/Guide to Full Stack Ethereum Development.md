@@ -9,4 +9,4 @@ Finally, we’ll learn how to create and mint real ERC20 tokens, as well as how 
 By the end of this guide, you should have a good understanding of how to build modern dApps with React and Solidity on the Ethereum blockchain.
 <!--iframe width="800" height="400" src="https://www.youtube.com/embed/a0osIaAOFSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-[<img src="https://i.ytimg.com/vi/a0osIaAOFSE/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=a0osIaAOFSE "Ethereum development guide")
+[![Ethereum development guide](https://i.ytimg.com/vi/a0osIaAOFSE/maxresdefault.jpg)](https://www.youtube.com/watch?v=a0osIaAOFSE)
