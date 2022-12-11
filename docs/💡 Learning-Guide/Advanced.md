@@ -39,6 +39,9 @@ Besides a programming background, this path assumes that the reader is at least 
    4. [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
    5. [Ultimate Introduction to Ethereum Ðapp Development](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial) (Est. time: 4 hs)
    6. [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
+   7. [Smart Contract Engineer](https://www.smartcontract.engineer/) is a Solidity/Vyper learning platform for De-Fi users.
+   8. [Capture the Ether](https://capturetheether.com/) is a game in which you hack Ethereum smart contracts to learn about security.
+   9. [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) is the wargame to learn offensive security of DeFi smart contracts.
 
 ## Concepts
 
@@ -53,6 +56,7 @@ Besides a programming background, this path assumes that the reader is at least 
    8. Decentralized Finance (DeFi):
        - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
        - [DeFi Prime](https://defiprime.com/) - Curated directory of DeFi projects.
+   9. [Secureum](https://secureum.substack.com/) is an effort towards education & evaluation of Ethereum security.
 
 ## Under the hood
 
@@ -75,3 +79,4 @@ Besides a programming background, this path assumes that the reader is at least 
 ### Audit
 
 [SmartCheck](https://tool.smartdec.net/) - Online tool for checking smart contracts for vulnerabilities and bad practices.
+[Slither](https://github.com/crytic/slither) - Sither is a Solidity static analysis framework written in Python 3.
