@@ -80,4 +80,3 @@ Besides a programming background, this path assumes that the reader is at least 
 
 [SmartCheck](https://tool.smartdec.net/) - Online tool for checking smart contracts for vulnerabilities and bad practices.
 [Slither](https://github.com/crytic/slither) - Sither is a Solidity static analysis framework written in Python 3.
-
