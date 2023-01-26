@@ -12,7 +12,7 @@ To develop decentralized applications on Ethereum or other blockchains, you will
 
 ## How the Blockchain Works
 
-You will need to have a basic understanding of how the blockchain works. What is a private and public key? What is a block and how is it validated? What even is a blockchain. There are some great materials out there for you and we have gathered some of the best below. If books are your thing, you'll prabably want to start with "Mastering Bitcoin." This will give you some interesting history and teach you everything you need to know about Bitcoin.
+You will need to have a basic understanding of how the blockchain works. What is a private and public key? What is a block and how is it validated? What even is a blockchain. There are some great materials out there for you and we have gathered some of the best below. If books are your thing, you'll probably want to start with "Mastering Bitcoin." This will give you some interesting history and teach you everything you need to know about Bitcoin.
 
 You can then follow this up with "Mastering Ethereum". As a Dapp developer specifically, you will need to know about smart contracts and the EVM. This will not only teach you about Ethereum but also many of the concepts you will need for developing on other chains.
 
