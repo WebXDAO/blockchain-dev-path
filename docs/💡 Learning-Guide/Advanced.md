@@ -1,7 +1,7 @@
 # Advanced
 ## Understanding Blockchain in a bit higher level than the beginner
 
-An opinionated learning path for getting into speed with Blockchain (specially Ethereum).
+An opinionated learning path for getting into speed with Blockchain (especially Ethereum).
 ## Pre-requisites
 
 Besides a programming background, this path assumes that the reader is at least a little comfortable with:
@@ -9,7 +9,7 @@ Besides a programming background, this path assumes that the reader is at least 
    - Watch [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4). (Est. time: 7 minutes)
 - Digital signatures
    - Read [Cryptography Digital 
-       Signitures.](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm) (Est. time: 10 minutes)
+       Signatures.](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm) (Est. time: 10 minutes)
    - Watch [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) (Est. time: 3 minutes)
 - Cryptographic hashing
    -  Watch [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70) (Est. time: 5 minutes)
@@ -74,7 +74,7 @@ Besides a programming background, this path assumes that the reader is at least 
 
 [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.,<br />
 [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.<br />
-[Metamask](https://metamask.io/) - You can use it as a extension in your browser.<br />
+[Metamask](https://metamask.io/) - You can use it as an extension in your browser.<br />
 
 ### Audit
 
