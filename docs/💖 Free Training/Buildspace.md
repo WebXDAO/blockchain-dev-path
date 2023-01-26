@@ -18,4 +18,4 @@ Join a select group of builders that are working on their dreams on nights & wee
 
 Join 124,000+ builders around the world hacking on cool shit. Make friends. Set ambitious goals and climb your inner mountain. You got this!
 
-➡ ['Sup on the cord](https://discord.com/invite/buildspace)
+➡ ['Sup on Discord](https://discord.com/invite/buildspace)
