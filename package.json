@@ -1,6 +1,6 @@
 {
   "name": "blockchain-dev-path",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -33,5 +33,26 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Learn Blockchain and Web3 easily with our curated list of tips and resources.",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebXDAO/blockchain-dev-path.git"
+  },
+  "keywords": [
+    "blockchain",
+    "development",
+    "tutorial",
+    "open-source",
+    "community"
+  ],
+  "author": "WebXDAO team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebXDAO/blockchain-dev-path/issues"
+  },
+  "homepage": "https://github.com/WebXDAO/blockchain-dev-path#readme"
 }
